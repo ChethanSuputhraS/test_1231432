@@ -62,8 +62,8 @@
             filePath = "SmartLightApp/Classes And Libraries/App Classes/AddSocketVC.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1348"
-            endingLineNumber = "1348"
+            startingLineNumber = "1349"
+            endingLineNumber = "1349"
             landmarkName = "-RecievedWifiConfiguredStatus:"
             landmarkType = "7">
          </BreakpointContent>

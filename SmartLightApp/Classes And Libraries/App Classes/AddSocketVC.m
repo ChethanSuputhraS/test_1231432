@@ -192,6 +192,7 @@
     [lblNoDevice setTextColor:[UIColor whiteColor]];
     lblNoDevice.text = @"No Devices Found.";
     [self.view addSubview:lblNoDevice];
+    NSLog(@"VINI ANNA======>>>>>")
 }
 #pragma mark- Buttons Click Events
 -(void)btnBackClick
