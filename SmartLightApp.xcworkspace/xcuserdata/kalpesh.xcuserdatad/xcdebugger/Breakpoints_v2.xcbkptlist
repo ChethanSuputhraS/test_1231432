@@ -64,8 +64,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1348"
             endingLineNumber = "1348"
-            landmarkName = "AddSocketVC"
-            landmarkType = "3">
+            landmarkName = "-RecievedWifiConfiguredStatus:"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

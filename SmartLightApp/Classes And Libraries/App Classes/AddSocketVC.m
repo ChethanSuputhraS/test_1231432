@@ -75,7 +75,7 @@
     
     NSString * strQuery = [NSString stringWithFormat:@"Select * from Device_Table where user_id ='%@' and status = '1' group by ble_address",CURRENT_USER_ID];
     [[DataBaseManager dataBaseManager] execute:strQuery resultsArray:deviceListArray];
-    
+    NSLog(@"deviceListArray%@",deviceListArray);
     [super viewDidLoad];
     
     [[BLEService sharedInstance] setDelegate:self];
